@@ -22,9 +22,7 @@ The BMI Haptics team is responsible for the developing the afferent neural pathw
 | **William Björn Schmid** | Team Leader BMI Haptics | [william.schmid@epfl.ch](mailto:william.schmid@epfl.ch) | [William's LinkedIn](https://www.linkedin.com/in/william-schmid-721a0a200/) |
 | **Aude-Line Fleury** | Pressure Feedback | [aude-line.fleury@epfl.ch](mailto:aude-line.fleury@epfl.ch) | [Aude-Line's LinkedIn]() |
 | **Adrien Boschung** | Proprioception Feedback | [adrien.boschung@epfl.ch](mailto:adrien.boschung@epfl.ch) | [Adrien's Linkedin](https://www.linkedin.com/in/adrien-boschung-123abc/) | 
-| **Leith Kochbati** | Proprioception Feedback | [
-leith.kochbati@epfl.ch](mailto:
-leith.kochbati@epfl.ch) | [Leith's Linkedin]() |
+| **Leith Kochbati** | Proprioception Feedback | [leith.kochbati@epfl.ch](mailto:leith.kochbati@epfl.ch) | [Leith's Linkedin]() |
 
 ---
 
